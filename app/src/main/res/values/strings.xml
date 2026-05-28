@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Reading App</string>
+    <string name="loading">Loading...</string>
+    <string name="loading_news">Đang tải tin tức…</string>
+    <string name="btn_refresh">Làm mới</string>
+    <string name="btn_select_source">Chọn nguồn</string>
+    <string name="default_source">VnExpress</string>
+    <string name="default_category">Thời sự</string>
+    <string name="empty_articles">Không có bài viết</string>
+    <string name="settings">Cài đặt</string>
+    <string name="article_image">Article image</string>
+    <string name="article_title_placeholder">Tiêu đề bài báo</string>
+    <string name="article_summary_placeholder">Tóm tắt ngắn...</string>
+    <string name="main_menu_subtitle">Chào ngày mới</string>
+    <string name="read_news_title">Đọc báo</string>
+    <string name="read_news_description">Mở lại màn hình đọc báo và vào thẳng nguồn, chủ đề trước đó nếu đã dùng.</string>
+    <string name="read_email_title">Đọc email</string>
+    <string name="read_email_description">Mục này sẽ được phát triển sau.</string>
+    <string name="read_email_coming_soon_message">Đọc email sẽ được phát triển sau.</string>
+    <string name="main_menu_coming_soon">Sắp có</string>
+    <string name="main_menu_arrow">›</string>
+    <string name="email_setup_title">Thiết lập email</string>
+    <string name="email_setup_description">Đăng nhập Google chưa được mở trong bản này. Phần email vẫn đang được hoàn thiện.</string>
+    <string name="email_setup_google_sign_in">Google Sign-In</string>
+    <string name="email_setup_close">Đóng</string>
+    <string name="email_empty">Chưa có email nào được đồng bộ.</string>
+    <string name="tts_settings_title">Cài đặt TTS</string>
+</resources>
